@@ -1,0 +1,1 @@
+This is a sample file 2 in folderA directory of source repo
